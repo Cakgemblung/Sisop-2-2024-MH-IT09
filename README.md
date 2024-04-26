@@ -292,11 +292,12 @@ Opsi `-k`: Menghentikan aplikasi-aplikasi berdasarkan argumen atau file konfigur
 Berikut adalah hasil atau output dari code kami
 
 ![image](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/21cfa219-96b4-4038-8d95-cca304e70431)
+![image](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/ce2de679-79cc-4dd0-a222-9fd15546d316)
 
 isi `file.conf_pids.txt`
 
 ![Screenshot 2024-04-27 012415](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/0c222486-3ba1-467a-8244-681330c64734)
-![image](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/ce2de679-79cc-4dd0-a222-9fd15546d316)
+
 
 
 
