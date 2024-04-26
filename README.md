@@ -290,9 +290,12 @@ Opsi `-f`: Membuka aplikasi-aplikasi berdasarkan file konfigurasi.
 Opsi `-k`: Menghentikan aplikasi-aplikasi berdasarkan argumen atau file konfigurasi.
 
 Berikut adalah hasil atau output dari code kami
+
 ![image](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/21cfa219-96b4-4038-8d95-cca304e70431)
+
 isi `file.conf_pids.txt`
-![image](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/edf381d7-8c69-4290-853d-2672a4107961)
+
+![Screenshot 2024-04-27 012415](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/0c222486-3ba1-467a-8244-681330c64734)
 ![image](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/ce2de679-79cc-4dd0-a222-9fd15546d316)
 
 
