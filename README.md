@@ -1,5 +1,4 @@
 # Sisop-2-2024-MH-IT09
-# Sisop-2-2024-MH-IT09
 
 | Nama          | NRP          |
 | ------------- | ------------ |
@@ -154,7 +153,7 @@ isi file setelah dijalankan
 
 
 Isi virus.log
-![image](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/f4c15c04-ac78-48d1-ad4d-5160b1401edf)
+![Screenshot 2024-04-27 013030](https://github.com/Cakgemblung/Sisop-2-2024-MH-IT09/assets/144968322/c905aeb7-b2b7-4281-bd84-da50bf11d335)
 
 
 ## Soal 4
