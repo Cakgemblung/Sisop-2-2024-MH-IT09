@@ -344,9 +344,13 @@ int main(int argc, char* argv[]) {
 }
 ```
 Fungsi-fungsi command dalam kode kami :
+
 monitor_pengguna(char* pengguna): Fungsi ini menjalankan proses pemantauan untuk pengguna yang diberikan.
+
 hentikan_monitor(char* pengguna): Fungsi ini menghentikan proses pemantauan untuk pengguna yang diberikan.
+
 kontrol_pengguna(char* pengguna): Fungsi ini mengendalikan proses yang dijalankan oleh pengguna dengan menghentikan proses-proses tersebut.
+
 hentikan_kontrol(char* pengguna): Fungsi ini menghentikan proses pengendalian proses untuk pengguna yang diberikan.
 
 Disini Virtual Machine saya mengalami hang saat menggunakan command ./admin -c. Jadi saya tidak dapat melanjutkan revisinya.
